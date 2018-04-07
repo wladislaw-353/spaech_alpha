@@ -1,0 +1,69 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+img{
+	max-width: 100%;
+}
+.content table{
+	max-width: 100%;
+}
+.post-group-flex{
+	display: -webkit-flex;
+	display:    -moz-flex;
+	display:     -ms-flex;
+	display:      -o-flex;
+	display:         flex;
+    -webkit-flex-direction: row;
+       -moz-flex-direction: row;
+        -ms-flex-direction: row;
+         -o-flex-direction: row;
+            flex-direction: row;
+    -webkit-flex-wrap: wrap;
+       -moz-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+         -o-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+       -moz-justify-content: space-around;
+        -ms-justify-content: space-around;
+         -o-justify-content: space-around;
+            justify-content: space-around;
+}
+.post-group-flex-left{
+    display: -webkit-flex;
+    display:    -moz-flex;
+    display:     -ms-flex;
+    display:      -o-flex;
+    display:         flex;
+    -webkit-flex-direction: row;
+       -moz-flex-direction: row;
+        -ms-flex-direction: row;
+         -o-flex-direction: row;
+            flex-direction: row;
+    -webkit-flex-wrap: wrap;
+       -moz-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+         -o-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-justify-content: flex-start;
+       -moz-justify-content: flex-start;
+        -ms-justify-content: flex-start;
+         -o-justify-content: flex-start;
+            justify-content: flex-start;	
+}
+.slide .item img{
+    width: 100%;
+}
+.box{
+    padding: 15px 0;
+}
+.text-white{
+    color: #fff;
+}
+.text-black{
+    color: #000;
+}
+.navbar-default .navbar-toggle{
+    margin: 8px 15px;
+}

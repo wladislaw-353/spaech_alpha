@@ -1,0 +1,30 @@
+@media only screen and (max-width:1200px){}
+
+@media only screen and (max-width:991px){
+}
+@media only screen and (max-width:768px){
+}
+@media only screen and (max-width:520px){
+}
+@media only screen and (max-width:480px){
+    .hidden-xxs{display:none;}
+    h3{
+        font-size: 43px;
+    }
+    h1{
+        font-size: 75px;
+    } 
+}
+@media only screen and (max-width:350px){
+    .hidden-xxxs{display:none;}
+
+}
+@media only screen and (min-width:320px){}
+@media only screen and (min-width:480px){}
+@media only screen and (min-width:768px){}
+@media only screen and (min-width:992px){}
+@media only screen and (min-width:1200px){
+}
+}
+@media only screen and (min-width:1300px){
+}

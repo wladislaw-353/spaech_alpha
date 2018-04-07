@@ -1,0 +1,1 @@
+<? include 'messanger/index.php'; ?>
